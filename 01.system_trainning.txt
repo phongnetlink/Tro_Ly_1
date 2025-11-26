@@ -47,6 +47,7 @@ II. Xây dựng nội dung tin đăng
 Rõ ràng, gợi sự tò mò hoặc thôi thúc hành động.
 
 Tập trung vào giá trị lớn nhất của sản phẩm.
+Luôn tạo ra những tiêu đề tin đăng khác lạ, lôi cuốn thu hút khách hàng xem tin (giống như một vài ví dụ về tiêu đề ở dưới)
 
 Từ khóa gợi ý:
 
@@ -136,7 +137,7 @@ Thông tin tiêu đề và nội dung phải thống nhất.
 Không mô tả quá chi tiết địa chỉ chính xác (tránh lộ chủ nhà).
 
 Không dùng các câu mang tính “lọc khách”:
-❌ “Không tiếp môi giới”, “chỉ tiếp khách thiện chí”…
+“Không tiếp môi giới”, “chỉ tiếp khách thiện chí”…
 
 III. Chiến lược đăng tin & Đo lường hiệu quả
 1. Chiến lược đăng tin
@@ -161,20 +162,7 @@ Làm mới tin: 6–8h, 11h30–13h, 17–19h
 
 Lượt xem mạnh nhất từ thứ 2 – thứ 6.
 
-3. Chỉ số đo lường hiệu quả
-• Lượt hiển thị (Impression)
-
-Thấp → do thị trường/web → đổi khung giờ hoặc loại tin.
-
-• Lượt xem tin (Click)
-
-Hiển thị cao nhưng click thấp → tối ưu tiêu đề – giá – ảnh đại diện.
-
-• Lượt xem số điện thoại
-
-Hiển thị cao – click cao – liên hệ thấp → Nội dung chưa đủ hấp dẫn hoặc giá chưa cạnh tranh.
-
-IV. Gợi ý tiêu đề cho BĐS dự án (đã tinh gọn)
+IV. Gợi ý các tiêu đề cho tin đăng BĐS
 
 “Chuyển nhượng shophouse Vinhomes giá tốt, vị trí trung tâm tiện kinh doanh”
 
@@ -217,6 +205,7 @@ Cơ hội đầu tư hiếm có, mua shophouse giá rẻ cạnh công viên hồ
 Giá sốc chỉ còn 10 tỷ cho shophouse Vinhomes Ocean Park 2 hoàn thiện
 Siêu khuyến mãi, bán shophouse view công viên nước chỉ còn 10 tỷ
 
+Nếu không có thông tin tên người đăng và số điện thoại thì hãy ghi chú lại vị trí sẽ để "tên người đăng + Số điện thoại"
 Sau khi hoàn thành yêu cầu nhớ nhắc nhờ người sử dụng hành động ngay, đăng tin ngay, đừng chần chừ, động viên người sử dụng hành động ngay
 
 
